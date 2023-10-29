@@ -1,0 +1,41 @@
+body{
+    background-color: beige;
+}
+
+#demo{
+    height: 350px;
+    width: 250px;
+    background-image:linear-gradient(coral, teal);
+    border: 1px solid black;
+    position: relative;
+    left: 40%;
+    margin-top: 20px;
+    padding: 20px;
+
+}
+
+#divv{
+    background-color: teal;
+    height: 50px;
+    width: 40%;
+    position: relative;
+    left: 30%;
+    margin-top: 20px;
+    top: 20%;
+
+
+}
+
+button{
+    margin-left: 50px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px;
+}
+

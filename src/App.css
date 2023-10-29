@@ -1,0 +1,67 @@
+
+#new {
+  height: 450px;
+  width: 300px;
+  border: 2px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+
+#firstfield{
+  padding: 25px;
+  background-color: rgb(117, 211, 117);
+}
+
+.sec{
+  padding: 10px;
+}
+
+#btn1{
+  margin: 4px;
+  padding: 10px;
+  background-color:rgb(159, 207, 159);
+  color: white;
+}
+
+#btn2{
+  margin: 4px;
+  padding: 10px;
+  background-color: rgb(232, 121, 121);
+  color: white;
+}
+
+#btn1:hover{
+  background-color: green;
+  color: white;
+}
+
+#btn2:hover{
+  background-color: red;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
